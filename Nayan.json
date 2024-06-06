@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Tanver-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61556537307728",
+    "61552209590855"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "61552209590855",
+    "61556537307728"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61556537307728"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
